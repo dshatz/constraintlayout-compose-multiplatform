@@ -1,3 +1,9 @@
+The aim of this fork is to demonstrate that [this issue](https://github.com/Lavmee/constraintlayout-compose-multiplatform/issues/36) can be fixed and to provide a temporary published artifact for those interested.
+
+The version with the fix is available at Maven Central:
+
+`implementation("com.dshatz.compose-mpp:constraintlayout-compose-multiplatform:0.3.1")`
+
 [![Maven Central](https://img.shields.io/maven-central/v/tech.annexflow.compose/constraintlayout-compose-multiplatform)](https://search.maven.org/search?q=g:tech.annexflow.compose)
 ![license](https://img.shields.io/github/license/Lavmee/constraintlayout-compose-multiplatform)
 
